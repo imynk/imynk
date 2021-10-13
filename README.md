@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imynk
 - 👀 I’m interested in Tech.
-- 🌱 I’m currently learning basically nothing.
-- 💞️ I’m looking to collaborate on a oject which will fill my pocket
+- 💞️ I’m looking to collaborate on a project which will fill my pocket
 - 📫 Mail me : <a href= "mailto: mayankt1998@gmail.com">mayankt1998@gmail.com</a>
 
 <!---
